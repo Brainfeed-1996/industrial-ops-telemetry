@@ -1,0 +1,11 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'zero-trust-identity'
+    static_configs:
+      - targets: ['zero-trust-asset-identity:8080']
+
+  - job_name: 'edge-ids'
+    static_configs:
+      - targets: ['edge-ids-container:8001']
