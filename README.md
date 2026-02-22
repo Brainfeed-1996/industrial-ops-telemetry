@@ -1,4 +1,8 @@
-# Industrial Ops & Telemetry
+# 📊 Industrial Ops & Telemetry
+
+[![Docker](https://img.shields.io/badge/Infrastructure-Docker-2496ED.svg)](https://www.docker.com)
+[![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C.svg)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Visualization-Grafana-F46800.svg)](https://grafana.com)
 
 Centralized observability hub for monitoring the Zero-Trust ecosystem.
 
