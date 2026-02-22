@@ -4,7 +4,8 @@
 [![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C.svg)](https://prometheus.io)
 [![Grafana](https://img.shields.io/badge/Visualization-Grafana-F46800.svg)](https://grafana.com)
 
-Centralized observability hub for monitoring the Zero-Trust ecosystem.
+---
+Part of the [Industrial Portfolio 2026](https://github.com/Brainfeed-1996/industrial-portfolio-2026) ecosystem.
 
 ## Architecture
 - **Prometheus**: Time-series database for metrics.
